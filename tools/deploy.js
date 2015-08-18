@@ -15,4 +15,3 @@ export default async () => {
   await require('./build')();
   await new Promise(resolve => push('./build', remote, resolve));
 };
-

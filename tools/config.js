@@ -92,8 +92,8 @@ const appConfig = merge({}, config, {
     'webpack/hot/dev-server',
     'webpack-hot-middleware/client'
   ] : []).concat([
-      './src/js/app.js'
-    ]),
+    './src/js/app.js'
+  ]),
   output: {
     filename: 'app.js'
   },
