@@ -4,6 +4,8 @@
 [![NPM downloads](http://img.shields.io/npm/dm/generator-react-static.svg?style=flat-square)](https://www.npmjs.com/package/generator-react-static)
 [![Build Status](http://img.shields.io/travis/koistya/react-static-boilerplate/master.svg?style=flat-square)](https://travis-ci.org/koistya/react-static-boilerplate)
 [![Dependency Status](http://img.shields.io/david/dev/koistya/react-static-boilerplate.svg?branch=master&style=flat-square)](https://david-dm.org/koistya/react-static-boilerplate#info=devDependencies)
+[![Brave Status](https://test.brave.work/badge)](https://test.brave.work/fund)
+
 
 > A static website starter kit powered by [React.js](http://facebook.github.io/react/)
 > and [Webpack](http://webpack.github.io/).
